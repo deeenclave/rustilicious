@@ -1,5 +1,5 @@
-mod print;
+mod types;
 
 fn main() {
-    print::printer();
+    types::run();
 }
