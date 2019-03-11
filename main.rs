@@ -1,5 +1,5 @@
-mod types;
+mod tuples;
 
 fn main() {
-    types::run();
+    tuples::run();
 }
