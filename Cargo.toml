@@ -1,0 +1,11 @@
+[package]
+name = "rustilicious"
+version = "0.1.0"
+authors = ["rangarajl <rangaraj.l@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "rustilicious"
+path = "main.rs"
