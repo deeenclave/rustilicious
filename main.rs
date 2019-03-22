@@ -1,5 +1,5 @@
-mod tuples;
+mod guessing_game;
 
 fn main() {
-    tuples::run();
+    guessing_game::guess();
 }
